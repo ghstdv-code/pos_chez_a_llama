@@ -1,0 +1,48 @@
+C:\Users\Gernel Esguerra\Desktop\POS\bin\Debug\POS.exe.config
+C:\Users\Gernel Esguerra\Desktop\POS\bin\Debug\POS.exe
+C:\Users\Gernel Esguerra\Desktop\POS\bin\Debug\POS.pdb
+C:\Users\Gernel Esguerra\Desktop\POS\bin\Debug\POS.xml
+C:\Users\Gernel Esguerra\Desktop\POS\bin\Debug\Guna.UI2.dll
+C:\Users\Gernel Esguerra\Desktop\POS\obj\Debug\POS.Main.resources
+C:\Users\Gernel Esguerra\Desktop\POS\obj\Debug\POS.Resources.resources
+C:\Users\Gernel Esguerra\Desktop\POS\obj\Debug\POS.vbproj.GenerateResource.Cache
+C:\Users\Gernel Esguerra\Desktop\POS\obj\Debug\POS.exe
+C:\Users\Gernel Esguerra\Desktop\POS\obj\Debug\POS.xml
+C:\Users\Gernel Esguerra\Desktop\POS\obj\Debug\POS.pdb
+C:\Users\Gernel Esguerra\Desktop\POS\obj\Debug\POS.vbprojResolveAssemblyReference.cache
+E:\POS\bin\Debug\POS.exe.config
+E:\POS\bin\Debug\POS.exe
+E:\POS\bin\Debug\POS.pdb
+E:\POS\bin\Debug\POS.xml
+E:\POS\bin\Debug\EntityFramework.dll
+E:\POS\bin\Debug\EntityFramework.SqlServer.dll
+E:\POS\bin\Debug\System.Data.SQLite.dll
+E:\POS\bin\Debug\System.Data.SQLite.EF6.dll
+E:\POS\bin\Debug\System.Data.SQLite.Linq.dll
+E:\POS\bin\Debug\EntityFramework.xml
+E:\POS\bin\Debug\EntityFramework.SqlServer.xml
+E:\POS\bin\Debug\System.Data.SQLite.xml
+E:\POS\bin\Debug\System.Data.SQLite.dll.config
+E:\POS\obj\Debug\POS.CheckOut.resources
+E:\POS\obj\Debug\POS.counter.resources
+E:\POS\obj\Debug\POS.History.resources
+E:\POS\obj\Debug\POS.menu_apetizer.resources
+E:\POS\obj\Debug\POS.menu_dessert.resources
+E:\POS\obj\Debug\POS.menu_drinks.resources
+E:\POS\obj\Debug\POS.menu_pizza.resources
+E:\POS\obj\Debug\POS.item_frame.resources
+E:\POS\obj\Debug\POS.Main.resources
+E:\POS\obj\Debug\POS.menu_meal.resources
+E:\POS\obj\Debug\POS.Message.resources
+E:\POS\obj\Debug\POS.Resources.resources
+E:\POS\obj\Debug\POS.PrintableFooter.resources
+E:\POS\obj\Debug\POS.PrintableHeader.resources
+E:\POS\obj\Debug\POS.PrintableItems.resources
+E:\POS\obj\Debug\POS.Reciept.resources
+E:\POS\obj\Debug\POS.vbproj.GenerateResource.Cache
+E:\POS\obj\Debug\POS.vbproj.CoreCompileInputs.cache
+E:\POS\obj\Debug\POS.exe
+E:\POS\obj\Debug\POS.xml
+E:\POS\obj\Debug\POS.pdb
+E:\POS\obj\Debug\POS.vbprojResolveAssemblyReference.cache
+E:\POS\obj\Debug\POS.About.resources
